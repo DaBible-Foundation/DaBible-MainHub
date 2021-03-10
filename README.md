@@ -6,6 +6,9 @@ All the members of the DaBible Foundation are simply a group of young youths. We
 
 We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  which are available on both Apple Store and Google Play. Currently, we have finished the recording of our Hausa Audio Bible, which will be released in 2021. We are also looking forward to volunteers and sponsors, who will love to work with us on the Igbo Audio Bible and other Nigerian languages.
 
+![image](https://user-images.githubusercontent.com/23180033/110568425-942b5c80-8118-11eb-8664-e5bfabd5ae44.png)
+
+
 # How to contribute to DaBible Foundation
 If you have suggestions about how we can improve our products, please suggest them by [Creating an Issue](https://github.com/sanmiayotunde/DaBible-Foundation/issues)
 
