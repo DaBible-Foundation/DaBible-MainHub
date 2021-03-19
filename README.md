@@ -1,6 +1,6 @@
 # DaBible Foundation MainHub - project management, made simple.
 
-Welcome to DaBible Foundation's GitHub platform. Here, DaBible team members work together. At DaBible Foundation, project managers, developers, designers, analysts, writers, and volunteers, come together here to coordinate, track, and update our work in one place, so projects stay transparent and on schedule.
+Welcome to DaBible Foundation's MainHub. Here, DaBible team members work together. At DaBible Foundation, project managers, developers, designers, analysts, writers, and volunteers, come together here to coordinate, track, and update our work in one place, so projects stay transparent and on schedule.
 
 The members of the DaBible Foundation are youths with lots of potential and room for improvement. Currently, we run an open-source organization which means, everyone can contribute! Yes, you read it right, *YOU CAN CONTRIBUTE!*.
 
