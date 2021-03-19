@@ -1,6 +1,6 @@
 # DaBible Foundation Project Management, made simple
 
-At DaBible Foundation, project managers, developers, designers, analysts, writers, and volunteers, come together here to coordinate, track, and update our work in one place, so projects stay transparent and on schedule.
+Welcome to DaBible Foundation's GitHub platform. Here, DaBible team members work together. At DaBible Foundation, project managers, developers, designers, analysts, writers, and volunteers, come together here to coordinate, track, and update our work in one place, so projects stay transparent and on schedule.
 
 The members of the DaBible Foundation are youths with lots of potential and room for improvement. Currently, we run an open-source organization which means, everyone can contribute! Yes, you read it right, *YOU CAN CONTRIBUTE!*.
 
@@ -13,7 +13,7 @@ We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  
 If you have suggestions about how we can improve our products, please suggest them by [Creating an Issue](https://github.com/sanmiayotunde/DaBible-Foundation/issues)
 
 
-# How we work at DaBible Foundatin
+# How we work at DaBible Foundation
 
 ## 1. Start with an issue
 Here, everything starts with creating an issue to suggest a new idea or track a bug. Then we organize and assign the tasks to a team member. And don’t spare any attachments—issues support most image and file types. 
@@ -78,7 +78,7 @@ If you want to stay updated on what we are doing at DaBible Foundation, click th
 ![image](https://user-images.githubusercontent.com/23180033/110569431-2122e580-811a-11eb-99d1-f51040983bf4.png)
 
 
-# Our single source of truth (SSOT) for all our DaBible meetings  
+# DaBible Foundation Sprint meetings  
 The url at the end is a link to a google doc file that features the normal procedure of DaBible meetings. By viewing this doc, anyone can easily understand and familarize theselves with how meetings are run in DaBible Faundation. This file also tracks our progress report. Therefore, if you are interested in knowing what DaBible is currently working on, here is this. url:https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY/edit?usp=sharing
 
 # Thank you!
