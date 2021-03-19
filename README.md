@@ -2,7 +2,7 @@
 
 At DaBible Foundation, project managers, developers, designers, analysts, writers, and volunteers, come together here to coordinate, track, and update our work in one place, so projects stay transparent and on schedule.
 
-All the members of the DaBible Foundation are simply a group of young youths. We run an open-source organization which means, everyone can contribute! Yes, what you just read is correct, *YOU CAN CONTRIBUTE!*.
+The members of the DaBible Foundation are youths with lots of potential and room for improvement. Currently, we run an open-source organization which means, everyone can contribute! Yes, you read it right, *YOU CAN CONTRIBUTE!*.
 
 We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  which are available on both Apple Store and Google Play. Currently, we have finished the recording of our Hausa Audio Bible, which will be released in 2021. We are also looking forward to volunteers and sponsors, who will love to work with us on the Igbo Audio Bible and other Nigerian languages.
 
