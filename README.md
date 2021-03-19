@@ -79,6 +79,6 @@ If you want to stay updated on what we are doing at DaBible Foundation, click th
 
 
 # Our single source of truth (SSOT) for all our DaBible meetings  
-The url below is a link to a google doc file that features the normal procedure of DaBible meetings. By viewing this doc, anyone can easily understand and familarize theselves with how meetings are run in DaBible Faundation. This file also tracks our progress report. Therefore, if you are interested in knowing what DaBible is currently working on, here is this. url:https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY/edit?usp=sharing
+The url at the end is a link to a google doc file that features the normal procedure of DaBible meetings. By viewing this doc, anyone can easily understand and familarize theselves with how meetings are run in DaBible Faundation. This file also tracks our progress report. Therefore, if you are interested in knowing what DaBible is currently working on, here is this. url:https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY/edit?usp=sharing
 
 # Thank you!
