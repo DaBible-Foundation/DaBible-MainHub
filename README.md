@@ -10,12 +10,12 @@ We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  
 
 
 # How to contribute to DaBible Foundation
-If you have suggestions about how we can improve our products, please suggest them by [Creating an Issue](https://github.com/sanmiayotunde/DaBible-Foundation/issues)
+If you have suggestions about how we can improve our products, please suggest them by [Creating an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 
 # DaBible Foundation Sprint meetings  
 
 #### Communication Channel
-Slack - We communicate via SLACK and WhatsApp. To join us contact us, or create an issue here.
+Slack - We communicate via SLACK and WhatsApp. To join us contact us, or [create an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 
 #### Meeting Dates
 Weekly Meetings - We meet online on Saturday 10:00 AM CST and Tuesdays 11:30 PM CST.
@@ -34,7 +34,7 @@ We use this google word document file to itemize things we are working on every 
 ## 1. Start with an issue
 Here, everything starts with creating an issue to suggest a new idea or track a bug. Then we organize and assign the tasks to a team member. And don’t spare any attachments—issues support most image and file types. 
 
-- [Start an Issue](https://github.com/sanmiayotunde/DaBible-Foundation/issues)
+- [Start an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 - [Learn the Basics of Issues](https://docs.github.com/articles/managing-your-work-with-issues/)
 
 
@@ -64,7 +64,7 @@ Assign up to ten teammates to an issue or pull request to make sure work has an 
 
 
 ### 5. Select Milestones
-Add a milestone to track a project as part of a larger goal, like a weekly, quarterly to-do list or a big feature. Then watch your milestone’s overall progress from [the milestone page](https://github.com/sanmiayotunde/DaBible-Foundation/milestones).
+Add a milestone to track a project as part of a larger goal, like a weekly, quarterly to-do list or a big feature. Then watch your milestone’s overall progress from [the milestone page](https://github.com/DaBible-Foundation/DaBible-MainHub/milestones).
 
 ![image](https://user-images.githubusercontent.com/23180033/110569208-d43f0f00-8119-11eb-98ba-761b66023fff.png)
 
@@ -72,7 +72,7 @@ Add a milestone to track a project as part of a larger goal, like a weekly, quar
 ## See your work take shape with Projects
 Visualize all of your work and prioritize it right alongside your code with projects boards. See what tasks are planned or in-progress, either in a repository or across your organization. 
 
-- [Visit our Project Boards](https://github.com/sanmiayotunde/DaBible-Foundation/projects)
+- [Visit our Project Boards](https://github.com/DaBible-Foundation/DaBible-MainHub/projects)
 - [Learn about project boards](https://docs.github.com/articles/about-project-boards/)
 
 ![image](https://user-images.githubusercontent.com/23180033/110567835-bcff2200-8117-11eb-8d64-e92d9c7ba4b8.png)
