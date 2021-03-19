@@ -12,6 +12,22 @@ We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  
 # How to contribute to DaBible Foundation
 If you have suggestions about how we can improve our products, please suggest them by [Creating an Issue](https://github.com/sanmiayotunde/DaBible-Foundation/issues)
 
+# DaBible Foundation Sprint meetings  
+
+#### Communication Channel
+Slack - We communicate via SLACK and WhatsApp. To join us contact us, or create an issue here.
+
+#### Meeting Dates
+Weekly Meetings - We meet online on Saturday 10:00 AM CST and Tuesdays 11:30 PM CST.
+- On Saturdays, we plan our weekly activities, and
+- On Tuesdays, we check up on our planned activities
+
+#### Spring Document [Sprint Doc](https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY)
+We use this google word document file to itemize things we are working on every week. By viewing this doc, anyone can easily understand and familarize theselves with how meetings are run in DaBible Faundation. This file also tracks our progress report. Therefore, if you are interested in knowing what DaBible is currently working on, check this file.
+
+[Click Here to Access our Google Word Sprint Document](https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY)
+
+
 
 # How we work at DaBible Foundation
 
@@ -78,7 +94,6 @@ If you want to stay updated on what we are doing at DaBible Foundation, click th
 ![image](https://user-images.githubusercontent.com/23180033/110569431-2122e580-811a-11eb-99d1-f51040983bf4.png)
 
 
-# DaBible Foundation Sprint meetings  
-The url at the end is a link to a google doc file that features the normal procedure of DaBible meetings. By viewing this doc, anyone can easily understand and familarize theselves with how meetings are run in DaBible Faundation. This file also tracks our progress report. Therefore, if you are interested in knowing what DaBible is currently working on, here is this. url:https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY/edit?usp=sharing
+
 
 # Thank you!
