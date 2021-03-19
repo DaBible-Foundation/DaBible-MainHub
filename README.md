@@ -37,12 +37,8 @@ Tagging issues and pull requests with labels allows you to quickly search for th
 | ----------- | ----------- |
 | bug| Something isn't working |
 | documentation | Improvements or additions to documentation |
-| duplicate | This issue or pull request already exists |
+| analytics | Issues related to Google Analytics, logrocket, etc |
 | enhancement | New feature or request |
-| good first issue | Good for newcomers|
-| help wanted| Extra attention is needed |
-| invalid |This doesn't seem right |
-| question | Further information is requested |
 | wontfix | This will not be worked on |
 
 
@@ -71,9 +67,9 @@ Visualize all of your work and prioritize it right alongside your code with proj
 |DaBible.com | Website | [www.dabible.com](http://www.dabible.com)|
 |Solar Audio Bible|Physical Device|[Order or Sponsor Solar Device](https://dabible.com/solar-powered-audio-bible-player-for-the-elderly/)|
 |Yoruba Audio Bible|Android|[Download on Google Play](https://play.google.com/store/apps/details?id=net.yorubabible.audiobible)|
-|Yoruba Audio Bible|ioS|[Download on Apple Store](https://itunes.apple.com/us/app/yoruba-audio-bible/id1079050631)|
+|Yoruba Audio Bible|iOS|[Download on Apple Store](https://itunes.apple.com/us/app/yoruba-audio-bible/id1079050631)|
 |Pidgin Audio Bible|Android|[Download on Google Play](https://play.google.com/store/apps/details?id=com.dabible.pidgin)|
-|Pidgin Audio Bible|ioS|[Download on Apple Store](https://apps.apple.com/us/app/pidgin-audio-bible/id1492872631?ls=1)|
+|Pidgin Audio Bible|iOS|[Download on Apple Store](https://apps.apple.com/us/app/pidgin-audio-bible/id1492872631?ls=1)|
 
 
 
@@ -82,6 +78,7 @@ If you want to stay updated on what we are doing at DaBible Foundation, click th
 ![image](https://user-images.githubusercontent.com/23180033/110569431-2122e580-811a-11eb-99d1-f51040983bf4.png)
 
 
-
+# Our single source of truth (SSOT) for all our DaBible meetings  
+The url below is a link to a google doc file that features the normal procedure of DaBible meetings. By viewing this doc, anyone can easily understand and familarize theselves with how meetings are run in DaBible Faundation. This file also tracks our progress report. Therefore, if you are interested in knowing what DaBible is currently working on, here is this. url:https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY/edit?usp=sharing
 
 # Thank you!
