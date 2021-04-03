@@ -17,6 +17,12 @@ If you have suggestions about how we can improve our products, please suggest th
 #### Communication Channel
 Slack - We communicate via SLACK and WhatsApp. To join us contact us, or [create an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 
+#### Traffic, Mobile App, Google Ads, and YouTube Analytics
+- [DaBible.com Analytics →](https://datastudio.google.com/s/lCfNmWJrkOY)
+- [Mobile App Analytics →](#)
+- [Google Ads Analytics →](#)
+- [YouTube Analytics →](#)
+
 #### Meeting Dates
 Weekly Meetings - We meet online on Saturday 10:00 AM CST and Tuesdays 11:30 PM CST.
 - On Saturdays, we plan our weekly activities, and
