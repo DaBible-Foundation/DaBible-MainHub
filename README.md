@@ -12,6 +12,9 @@ We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  
 # How to contribute to DaBible Foundation
 If you have suggestions about how we can improve our products, please suggest them by [Creating an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 
+# Branding Color
+Primary Color: HEX #89213c
+
 # DaBible Foundation Sprint meetings  
 
 #### Communication Channel
