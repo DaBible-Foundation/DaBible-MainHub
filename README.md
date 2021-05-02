@@ -21,10 +21,7 @@ Primary Colors: [(LIGHT) HEX #c8385e, RGB (200,56,94)](https://www.color-hex.com
 Slack - We communicate via SLACK and WhatsApp. To join us contact us, or [create an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 
 #### Traffic, Mobile App, Google Ads, and YouTube Analytics
-- [DaBible.com Analytics →](https://datastudio.google.com/s/lCfNmWJrkOY)
-- [Mobile App Analytics →](#)
-- [Google Ads Analytics →](#)
-- [YouTube Analytics →](#)
+- [DaBible Analytics →](https://datastudio.google.com/s/hyLGxLFogjo)
 
 #### Meeting Dates
 Weekly Meetings - We meet online on Saturday 10:00 AM CST and Tuesdays 11:30 PM CST.
