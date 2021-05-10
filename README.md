@@ -31,6 +31,8 @@ Slack - We communicate via SLACK and WhatsApp. To join us contact us, or [create
 - [DaBible Analytics →](https://datastudio.google.com/reporting/0004bec3-6b8e-4f83-98f2-766ef76d8b24)
 
 ### Other Supporting Accounts
+- [Official YouTube Channel →](https://studio.youtube.com/channel/UC9F5ZayLAcHBoLzF8kVNsBg)
+- [YouTube - Sprint Meetings →](https://www.youtube.com/channel/UCQiXhduJkjGjZ9Q2PxDAjFw)
 - [Sound cloud →](https://soundcloud.com/admin-dabible)
 
 ### Meeting Dates
