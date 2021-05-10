@@ -13,25 +13,42 @@ We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  
 If you have suggestions about how we can improve our products, please suggest them by [Creating an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 
 # Branding Color
-Primary Colors: [(LIGHT) HEX #c8385e, RGB (200,56,94)](https://www.color-hex.com/color/c8385e). [(DARK) HEX #89213c, RGB (137, 33, 60)](https://www.color-hex.com/color/89213c)
+| Light | Dark | - | - |
+| -- | -- | -- | -- |
+| HEX #c8385e | HEX #89213c  | - | - |
+| RGB (200,56,94) | RGB (137, 33, 60) | - | - |
+| ![image](https://user-images.githubusercontent.com/23180033/117593159-c4837d00-b100-11eb-9f34-2936eba4fb82.png) | ![image](https://user-images.githubusercontent.com/23180033/117592835-c13bc180-b0ff-11eb-9622-85c414f8fd4d.png) | - | - |
+| [Color Information  →](https://www.color-hex.com/color/c8385e) | [Color Information →](https://www.color-hex.com/color/89213c) | - | - |
+| - | - | - | - |
+
 
 # DaBible Foundation Sprint meetings  
 
-#### Communication Channel
+### Communication Channel
 Slack - We communicate via SLACK and WhatsApp. To join us contact us, or [create an Issue](https://github.com/DaBible-Foundation/DaBible-MainHub/issues/new)
 
-#### Traffic, Mobile App, Google Ads, and YouTube Analytics
+### Traffic, Mobile App, Google Ads, and YouTube Analytics
 - [DaBible Analytics →](https://datastudio.google.com/reporting/0004bec3-6b8e-4f83-98f2-766ef76d8b24)
 
-#### Meeting Dates
+### Other Supporting Accounts
+- [Sound cloud →](https://soundcloud.com/admin-dabible)
+
+### Meeting Dates
 Weekly Meetings - We meet online on Saturday 10:00 AM CST and Tuesdays 11:30 PM CST.
 - On Saturdays, we plan our weekly activities, and
 - On Tuesdays, we check up on our planned activities
 
-#### Spring Document [Sprint Doc](https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY)
+### Sprint Document
 We use this google word document file to itemize things we are working on every week. By viewing this doc, anyone can easily understand and familarize theselves with how meetings are run in DaBible Faundation. This file also tracks our progress report. Therefore, if you are interested in knowing what DaBible is currently working on, check this file.
 
-[Click Here to Access our Google Word Sprint Document](https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY)
+[Click Here to Access our Google Word Sprint Document  →](https://docs.google.com/document/d/1_snfl-2eV8Q_EdZ8YIwQETmgsSWPO8MNVtMlcqLFoiY)
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
