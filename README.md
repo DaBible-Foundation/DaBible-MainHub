@@ -2,7 +2,7 @@ Welcome to DaBible Foundation's MainHub. Here, DaBible team members work togethe
 
 We run an open-source organization which means, everyone can contribute! Yes, you read it right, *YOU CAN CONTRIBUTE!*.
 
-[Read More on our Wiki Documentation](https://github.com/DaBible-Foundation/DaBible-MainHub/wiki)
+# [DaBible Wiki Handbook](https://github.com/DaBible-Foundation/DaBible-MainHub/wiki)
 
 We currently have two mobile apps, Yoruba Audio Bible, and Pidgin Audio Bible,  which are available on both Apple Store and Google Play. Currently, we have finished the recording of our Hausa Audio Bible, which will be released in 2021. We are also looking forward to volunteers and sponsors, who will love to work with us on the Igbo Audio Bible and other Nigerian languages.
 
@@ -21,7 +21,7 @@ Slack - We communicate using SLACK. To join us on slack, [Submit Request to Join
 - [Spotify](https://open.spotify.com/show/1KBpry6Tp1u2SJXTlLSz1v)
 
 
-- [Read More on our Wiki Documentation](https://github.com/DaBible-Foundation/DaBible-MainHub/wiki)
+- [Read More on our Wiki Handbook](https://github.com/DaBible-Foundation/DaBible-MainHub/wiki)
 <!-- - [Sound cloud →](https://soundcloud.com/admin-dabible) -->
 
 ### Virtual Meeting Dates - every Saturday by 10:00 AM EST
@@ -31,4 +31,4 @@ Slack - We communicate using SLACK. To join us on slack, [Submit Request to Join
 3. Our stakeholders, supervisors and advisers gets to watch this weekly video.
 4. To recieve our weekly report, add your email to our [Weekly Sprint Video Recording Recipients list →](https://docs.google.com/spreadsheets/d/1n-A6s0crM-0x3QGXfIvJiFYCIL4sroFhg8ifcoHZDZ4)
 
-[Read More on our Wiki Documentation](https://github.com/DaBible-Foundation/DaBible-MainHub/wiki)
+[Read More on our Wiki Handbook](https://github.com/DaBible-Foundation/DaBible-MainHub/wiki)
