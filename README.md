@@ -34,4 +34,15 @@ We use our handbook to document the process and guidelines of everything we do. 
 3. Our stakeholders, supervisors and advisers gets to watch this weekly video.
 4. To recieve our weekly report, add your email to our [Weekly Sprint Video Recording Recipients list →](https://docs.google.com/spreadsheets/d/1n-A6s0crM-0x3QGXfIvJiFYCIL4sroFhg8ifcoHZDZ4)
 
+# Our Projects
+|App|Type|Link|
+| ----------- | ----------- | ----------- |
+|DaBible.com | Website | [www.dabible.com](http://www.dabible.com)|
+|Solar Audio Bible|Physical Device|[Order or Sponsor Solar Device](https://dabible.com/solar-powered-audio-bible-player-for-the-elderly/)|
+|Yoruba Audio Bible|Android|[Download on Google Play](https://play.google.com/store/apps/details?id=net.yorubabible.audiobible)|
+|Yoruba Audio Bible|iOS|[Download on Apple Store](https://itunes.apple.com/us/app/yoruba-audio-bible/id1079050631)|
+|Pidgin Audio Bible|Android|[Download on Google Play](https://play.google.com/store/apps/details?id=com.dabible.pidgin)|
+|Pidgin Audio Bible|iOS|[Download on Apple Store](https://apps.apple.com/us/app/pidgin-audio-bible/id1492872631?ls=1)|
+
+
 [Read More on our Wiki Handbook](https://github.com/DaBible-Foundation/DaBible-MainHub/wiki)
