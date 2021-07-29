@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Please describe the task or issue:**
+<!-- Please describe the task or issue: -->
 
 
 
-**Additional information:**
+<!-- Additional information:  -->
