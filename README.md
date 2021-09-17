@@ -25,6 +25,7 @@ We use our handbook to document the process and guidelines of everything we do. 
 - [Linktree  →](https://linktr.ee/dabible)
 - [Instagram  →](https://www.instagram.com/dabiblefoundation/)
 - [Google Docs Planner →](https://docs.google.com/document/d/14lFtwbYBD5l77U7ZaolbJkTUIGG2hBgGbF0Bp_n2sYM/edit?usp=sharing)
+- [DaBible Team Members Pictures](https://dbdigitals.pixieset.com/dabible/)
 
 
 <!-- - [Sound cloud →](https://soundcloud.com/admin-dabible) -->
