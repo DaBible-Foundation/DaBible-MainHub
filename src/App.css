@@ -1,0 +1,80 @@
+#root {
+  max-width: 1220px;
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+  /* border: 1px solid gray; */
+}
+
+.body{
+  background: #FFF;
+}
+
+
+.theme-title{
+  width: 200px;
+  text-align: start;
+  color: #242424;
+  font-family: Big Shoulders Display;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 150%; /* 72px */
+  letter-spacing: 0.048px;
+}
+
+.section-title{
+  font-family: Big Shoulders Display;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 150%; /* 72px */
+  letter-spacing: 0.048px;
+}
+
+.typo_desc{
+  color: #FFF;
+  font-family: Work Sans;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 54px */
+  letter-spacing: 0.036px;
+}
+
+span.old_logo{
+  color: #242424;
+font-family: Big Shoulders Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 150%; /* 72px */
+letter-spacing: 0.048px;
+}
+
+.download_circle{
+  background-color: white;
+  opacity: 1;
+}
+
+.download_circle:hover{
+  background-color: rgb(249, 240, 240);
+}
+
+div.download{
+  display: none;
+}
+
+.logo_div:hover > div.download {
+  display: flex;
+}
+
+span.gradient{
+  color: #FFF;
+  font-family: Big Shoulders Display;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 150%; /* 48px */
+  letter-spacing: 0.032px;
+}
