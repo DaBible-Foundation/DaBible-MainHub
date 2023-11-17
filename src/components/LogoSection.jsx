@@ -11,13 +11,13 @@ export default function LogoSection ({}) {
 
                 <div className='flex flex-col gap-3 items-center'>
                 
-                    <WhiteRectangleLogo img={'/images/old_logo_white.png'} />
-                    <DarkRectangleLogo img={'/images/old_logo_black.png'} />
+                    <WhiteRectangleLogo img={'/images/old_logo_white.png'} isDownloadable={false} />
+                    <DarkRectangleLogo img={'/images/old_logo_black.png'} isDownloadable={false} />
 
-                    <div className="flex flex-col gap">
+                    {/* <div className="flex flex-col gap">
                         <span className="old_logo">OLD LOGO</span>
                         <small>DO NOT USE</small>
-                    </div>
+                    </div> */}
 
                     
 
