@@ -78,3 +78,7 @@ span.gradient{
   line-height: 150%; /* 48px */
   letter-spacing: 0.032px;
 }
+
+img.mockup{
+  aspect-ratio: 1/1;
+}

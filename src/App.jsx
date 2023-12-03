@@ -10,6 +10,7 @@ import FontSection from './components/FontSection'
 import ColorSection from './components/ColorSection';
 
 import { Toaster } from 'react-hot-toast';
+import MockupSection from './components/MockupSection';
 
 function App() {
 
@@ -30,6 +31,8 @@ function App() {
      <LogoSection />
 
      <AppLogoSection />
+
+     <MockupSection />
 
     </>
   )
